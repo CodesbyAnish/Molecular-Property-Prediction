@@ -4,4 +4,5 @@ Project on prediction of molecular properties i.e. scalar coupling constant base
   2. Implemented using linear regression and tuned model using xgboost<br>
  
 Data obtained from active competition under kaggle <br>
-**Please refer the report pdf for complete guide of the project**
+**Please refer the report pdf for complete guide of the project** <br>
+_just showcasing my RMD skills_
